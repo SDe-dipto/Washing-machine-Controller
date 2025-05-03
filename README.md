@@ -4,6 +4,10 @@
 # Washing Machine Controller (WM-Controller)
 This repository contains the Verilog implementation of a Washing Machine Controller module. This module is designed to control the different stages of a washing machine based on user input signals, such as lid, coin, and cancel with different modes for user to choose from.
 
+## Contributors
+- [Sourabh](https://github.com/Sourabh-Mallapur)
+This repository's original author is Sourabh Mallapur, one of the project's contributors.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -330,5 +334,4 @@ endmodule
 ![optismised](https://github.com/Sourabh-Mallapur/WM-Controller-Design/blob/main/syn/Syn_opt.png)
 
 
-## Contributors
-- [Soumyadipto](https://github.com/SomShubho)
+
